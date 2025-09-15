@@ -1,0 +1,4 @@
+This is an algorithm that returns the least sum of an array elements that sum to a specific sum
+Developed using the sliding window technique.
+Time Complexity O(n)
+Space Complexity O(1) (returning start and length instead of subarray)
