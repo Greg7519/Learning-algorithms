@@ -1,0 +1,4 @@
+This is an algorithm that returns the biggest substring with no duplicate characters
+Developed using sliding window technique
+Time Complexity O(n)
+Space Complexity O(n)
