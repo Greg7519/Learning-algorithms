@@ -1,0 +1,1 @@
+strCharsOccur[myStr[end]]++;
